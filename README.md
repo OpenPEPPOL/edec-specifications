@@ -7,4 +7,4 @@ The latest specifications are always published at https://docs.peppol.eu/edelive
 Structure of this repository:
 * Folder `work-in-progress` contains the eDEC internal work in progress
 * Folder `publication` contains the sources for https://docs.peppol.eu/edelivery/
-* Folder `old` contains old specification releases that are not featured in the publication. This folder is just present for archiving purposes.
+* Folder `releases` contains an archive of specification releases in their respective formats
