@@ -326,4 +326,9 @@ The 9 blanks in @soapAction are unfortunate but implemented like this in CEF SML
       </wsdl:fault>
     </wsdl:operation>
   </wsdl:binding>
+  <wsdl:service name="ManageBusinessIdentifierService">
+    <wsdl:port name="ManageBusinessIdentifierServicePort" binding="tns:ManageBusinessIdentifierServiceSoap">
+    <soap:address location="unknown"/>
+    </wsdl:port>
+  </wsdl:service>
 </wsdl:definitions>
